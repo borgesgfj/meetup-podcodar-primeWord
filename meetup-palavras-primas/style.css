@@ -1,0 +1,14 @@
+body {
+  background-color: #353641;
+}
+h1 {
+  color: aliceblue;
+}
+#rootDiv {
+  flex-direction: column;
+  padding: 10rem;
+}
+#logo {
+  width: 100px;
+  height: 100px;
+}
